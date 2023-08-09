@@ -21,7 +21,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            Dnepr19977
+            XXX
         </property>
 
         <property name="hibernate.show_sql">true</property>
